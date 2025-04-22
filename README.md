@@ -23,6 +23,7 @@ Overseas University Application &amp; Profile Building Portal for Students, Pare
 | **1.5.4** | Parents or sponsors can log in and monitor student progress. | Riya’s mother checks her application progress and sees feedback from the counselor. |
 | **1.5.5** | School/university staff can also interact with the platform for coordination. | A school principal logs in to upload transcripts and verify student records. |
 
+<img src="https://raw.githubusercontent.com/rohitsunilsharma2000/eduBridge-global/refs/heads/main/images/1.png"/>
 
 | **Point** | **Layman Explanation** | **Example** |
 |----------|------------------------|-------------|
@@ -36,6 +37,8 @@ Overseas University Application &amp; Profile Building Portal for Students, Pare
 | **2.1.8 Parent/Guardian Access** | Give parents or guardians permission to view your profile. | Riya adds her mother’s email, so she can check the application progress. |
 
 ---
+<img src="https://raw.githubusercontent.com/rohitsunilsharma2000/eduBridge-global/refs/heads/main/images/2.Basic-info.png"/>
+
 
 | **Point** | **Layman Explanation** | **Example** |
 |----------|------------------------|-------------|
@@ -46,6 +49,9 @@ Overseas University Application &amp; Profile Building Portal for Students, Pare
 | **2.2.5 Bundle Documents for Application** | Group relevant documents together for a specific university application. | For MIT, Riya bundles her SOP, resume, recommendation letters, and transcripts into one application folder. |
 
 ---
+
+<img src="https://raw.githubusercontent.com/rohitsunilsharma2000/eduBridge-global/refs/heads/main/images/3.Document%20Upload%20%26%20Management.png"/>
+
 
 ### 🛠️ **2.3. Project Tool**
 
